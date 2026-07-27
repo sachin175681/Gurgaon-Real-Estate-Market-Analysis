@@ -1,0 +1,2 @@
+# Gurgaon Real Estate Market Analysis
+I am  working as a Data Analyst for a real estate advisory firm operating in Gurgaon. The firm spent significant time to collect data on residential properties across various localities in Gurgaon. The firm wants data-backed insights to guide buyers, investors, and developers in making informed real estate decisions.  You are provided with a dataset containing residential property listings across multiple sectors of Gurgaon. The dataset includes pricing, area, BHK configuration, property type, builder details, and RERA approval status.
