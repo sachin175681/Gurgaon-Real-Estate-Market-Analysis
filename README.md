@@ -24,4 +24,3 @@ The solution is divided into logical steps:
 ◦ Analysis to answer each business question
 ◦ Summary of insights
 ◦ Each step below explains what we are doing and why.
-
